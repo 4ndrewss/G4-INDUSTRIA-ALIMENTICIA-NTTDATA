@@ -1,0 +1,11 @@
+nome_produto,sum(valor_total_parado)
+Molho,81445.58
+Suco,141381.01
+Iogurte,137240.31999999998
+Pão,202819.01
+Sorvete,187749.19
+Chocolate,161786.81
+Biscoito,71761.26000000001
+Refrigerante,18452.42
+Queijo,113571.16999999998
+Cereal,103992.76

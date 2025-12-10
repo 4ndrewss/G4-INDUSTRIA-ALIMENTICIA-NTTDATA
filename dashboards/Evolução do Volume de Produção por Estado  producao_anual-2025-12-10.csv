@@ -1,0 +1,7 @@
+local_fabricacao,ano_fabricacao,sum(total_itens_produzidos)
+MG,2024,2294
+MG,2025,29269
+BA,2024,4387
+BA,2025,29639
+SP,2024,1782
+SP,2025,27747
