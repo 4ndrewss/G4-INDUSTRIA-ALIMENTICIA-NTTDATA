@@ -58,14 +58,14 @@ A solução foi estruturada da seguinte forma:
 
 ## 🗂️ Estrutura do Repositório
 
-``
+```
 📁 raiz/
  ├── bronze/
  ├── silver/
  ├── gold/
  ├── dashboards/   # <- espaço reservado para inserir os gráficos
  └── README.md
- ``
+ ```
 
 ---
 
