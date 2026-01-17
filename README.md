@@ -1,3 +1,17 @@
+# G4 Industria Alimenticia NTT DATA (Fork)
+
+> ⚠️ **Nota de Portfólio:** Este projeto foi desenvolvido em grupo durante o 2º período de ADS na CESAR School.
+> O repositório original pertence a [Arthur Ferreira](https://github.com/ArchangelLoer).
+
+## 👨‍💻 Minha Contribuição
+Neste projeto de parceria com a NTT DATA, atuei na Engenharia de Dados e na apresentação do produto, sendo responsável por:
+
+- **Infraestrutura e Ambiente:** Configuração e estruturação completa do workspace no **Databricks**, organizando os notebooks para otimizar o fluxo de desenvolvimento.
+- **Pipeline ETL (Arquitetura Medalhão):** Responsável pela ingestão dos dados brutos na camada **Bronze** e pelo tratamento, limpeza e padronização dos dados na camada **Silver**.
+- **Comunicação Executiva:** Elaboração da apresentação visual (slides) e storytelling para demonstrar a solução final aos stakeholders da empresa parceira.
+
+---
+
 # 📊 Projeto de Integração e Análise de Dados – Residência Porto Digital / NTT DATA / CESAR School
 
 Este repositório contém toda a implementação do projeto desenvolvido pelo **Grupo 4 – Indústria Alimentícia**, durante a residência promovida pelo Porto Digital em parceria com a **NTT DATA** e a **CESAR School**.
